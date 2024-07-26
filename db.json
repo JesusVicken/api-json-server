@@ -5,18 +5,6 @@
       "tarefa": "test1",
       "categoria": "casa",
       "concluido": false
-    },
-    {
-      "id": "2",
-      "tarefa": "test2",
-      "categoria": "casa",
-      "concluido": false
-    },
-    {
-      "id": "3",
-      "tarefa": "test3",
-      "categoria": "casa",
-      "concluido": false
     }
   ]
 }
